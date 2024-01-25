@@ -1,0 +1,14 @@
+.list-item {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+}
+
+img {
+  height: 30px;
+}

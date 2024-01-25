@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.balance-container {
+  border: #84cc16 solid 2px;
+  border-radius: 8px;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  width: 25%;
+  background-color: #e0f7e0;
+  flex-grow: grow;
+}
+.logo {
+  height: 70px;
+}
+
+.income-container {
+  border: #06b6d4 solid 2px;
+  border-radius: 8px;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  width: 25%;
+  background-color: #cffafe;
+}
+
+.expenses-container {
+  border: #7c3aed solid 2px;
+  border-radius: 8px;
+  display: flex;
+  padding: 10px;
+  align-items: center;
+  width: 25%;
+
+  background-color: #f4f1fa;
+}
+
+.details-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
